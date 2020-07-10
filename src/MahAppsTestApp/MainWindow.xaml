@@ -5,7 +5,7 @@
                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
                  xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
                  mc:Ignorable="d"
-                 Title="WPFTestApp" Height="450" Width="800"
+                 Title="MahAppsTestApp" Height="450" Width="800"
                  WindowStartupLocation="CenterScreen">
 
     <!--
